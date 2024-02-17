@@ -5,4 +5,6 @@ Recopilación de utilidades básicas para Sinclair QL.
 
 Esta página contiene, exclusivamente, recursos en español.
 
-Licencia GLP
+[Visita la página](https://javguerra.github.io/QL_ES_pack/)
+
+2024 GPL
